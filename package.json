@@ -18,6 +18,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@nxt3d/ecsjs": "0.2.4-beta",
     "viem": "^2.21.0",
     "js-yaml": "^4.1.0"
   },
